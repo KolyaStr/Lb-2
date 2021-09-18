@@ -1,0 +1,7 @@
+C:\Users\Kolya\source\repos\Lb2.1\Lb2.6\bin\Debug\Lb2.6.exe.config
+C:\Users\Kolya\source\repos\Lb2.1\Lb2.6\bin\Debug\Lb2.6.exe
+C:\Users\Kolya\source\repos\Lb2.1\Lb2.6\bin\Debug\Lb2.6.pdb
+C:\Users\Kolya\source\repos\Lb2.1\Lb2.6\obj\Debug\Lb2.6.csprojAssemblyReference.cache
+C:\Users\Kolya\source\repos\Lb2.1\Lb2.6\obj\Debug\Lb2.6.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\source\repos\Lb2.1\Lb2.6\obj\Debug\Lb2.6.exe
+C:\Users\Kolya\source\repos\Lb2.1\Lb2.6\obj\Debug\Lb2.6.pdb
